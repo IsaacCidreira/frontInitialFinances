@@ -18,9 +18,8 @@ export const Container = styled.section`
     flex: 2;
     margin-left: 30px;
     .title {
-      margin-bottom: 40px;
+      margin-bottom: 20px;
       h1 {
-        margin-top: 10px;
         font-size: 28px;
         font-weight: bold;
       }
@@ -91,7 +90,7 @@ export const Container = styled.section`
     display: flex;
     margin-top: 30px;
     align-items: center;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     p {
       color: #aaa;
       padding: 0px 40px;

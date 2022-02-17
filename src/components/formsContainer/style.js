@@ -7,6 +7,7 @@ export const Container = styled.div`
   &:not(:first-child) {
   }
   small {
+    margin-top: 10px;
     color: #ff4040;
     padding-left: 10px;
     font-size: 10px;
